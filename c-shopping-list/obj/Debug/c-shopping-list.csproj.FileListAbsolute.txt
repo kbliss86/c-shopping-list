@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-shopping-list\c-shopping-list\bin\Debug\c-shopping-list.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-shopping-list\c-shopping-list\bin\Debug\c-shopping-list.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-shopping-list\c-shopping-list\bin\Debug\c-shopping-list.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-shopping-list\c-shopping-list\obj\Debug\c-shopping-list.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-shopping-list\c-shopping-list\obj\Debug\c-shopping-list.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-shopping-list\c-shopping-list\obj\Debug\c-shopping-list.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-shopping-list\c-shopping-list\obj\Debug\c-shopping-list.pdb
